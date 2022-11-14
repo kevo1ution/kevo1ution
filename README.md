@@ -1,6 +1,6 @@
 # Creator of [UrTurn](https://www.urturn.app/)
 
-A platform for developing and playing web games. [Make a game!](https://docs.urturn.app/)
+A platform for developing and playing web games. [Make a web game!](https://docs.urturn.app/), and instantly play it with others.
 
 <a href="https://discord.gg/myWacjdb5S">
   <img align="left" alt="UrTurn Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
