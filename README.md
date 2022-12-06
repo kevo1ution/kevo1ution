@@ -21,13 +21,15 @@ A platform for developing and playing web games. [Make a web game](https://docs.
 ## Contributor
 
 ### Open Source Contributions:
-- [UrTurn](https://github.com/turnbasedgames) - **Maintainer** of web game infrastructure
-- [Ava](https://github.com/avajs/ava) - Javascript Test Framework [_View PRs_](https://github.com/avajs/ava/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed)
-- [Mongoose](https://github.com/Automattic/mongoose) - Object modeling on top of MongoDB [_View PRs_](https://github.com/Automattic/mongoose/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution)
-- [Calva](https://github.com/BetterThanTomorrow/calva) - Clojure VSCode extension [_View PRs_](https://github.com/BetterThanTomorrow/calva/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed)
-- [Waiter](https://github.com/twosigma/waiter) - Two Sigma HTTP services platform [_View PRs_](https://github.com/twosigma/waiter/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed)
-- [Repository-settings](https://github.com/repository-settings/app) - Probot app that automates syncing repositories across a GitHub organization [_View PRs_](https://github.com/repository-settings/app/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution)
-- [Octokit](https://github.com/octokit/endpoint.js) - Official GitHub API clients [_View PRs_](https://github.com/octokit/endpoint.js/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution)
+| Repo | Stars |
+|:---	|:---	|
+| [UrTurn](https://github.com/turnbasedgames) - **Maintainer** [_View PRs_](https://github.com/turnbasedgames/urturn/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/turnbasedgames?style=social) |
+| [Ava](https://github.com/avajs/ava) - Javascript Test Framework [_View PRs_](https://github.com/avajs/ava/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/avajs/ava?style=social) |
+| [Mongoose](https://github.com/Automattic/mongoose) - Object modeling on top of MongoDB [_View PRs_](https://github.com/Automattic/mongoose/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/Automattic/mongoose?style=social) |
+| [Calva](https://github.com/BetterThanTomorrow/calva) - Clojure VSCode extension [_View PRs_](https://github.com/BetterThanTomorrow/calva/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/BetterThanTomorrow/calva?style=social) |
+| [Waiter](https://github.com/twosigma/waiter) - Two Sigma HTTP services platform [_View PRs_](https://github.com/twosigma/waiter/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/twosigma/waiter?style=social) |
+| [Repository-settings](https://github.com/repository-settings/app) - Automates syncing repositories [_View PRs_](https://github.com/repository-settings/app/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/repository-settings/app?style=social) |
+| [Octokit](https://github.com/octokit/endpoint.js) - Official GitHub API clients [_View PRs_](https://github.com/octokit/endpoint.js/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/octokit/endpoint.js?style=social) |
 
 ### Personal Stats
 ![](https://github-readme-stats.vercel.app/api?username=kevo1ution&count_private=true&show_icons=true&theme=dark)
