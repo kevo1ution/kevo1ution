@@ -16,8 +16,6 @@ A platform for developing and playing web games. [Make a web game](https://docs.
 </a>
 <br></br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=kevo1ution)
-
 ## Contributor
 
 ### Open Source Contributions:
