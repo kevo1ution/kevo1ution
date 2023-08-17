@@ -1,18 +1,10 @@
-# Creator of [UrTurn](https://www.urturn.app/) ❤️🏗️🎮
-
-A platform for developing and playing web games. [Make a web game](https://docs.urturn.app/), and instantly play it with others.
+# Kevin
 
 <a href="https://discord.gg/myWacjdb5S">
-  <img align="left" alt="UrTurn Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="UrTurn Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" />
 </a>
 <a href="https://www.linkedin.com/in/distributed/">
-  <img align="left" alt="Kevo1ution's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/tingtongtang/">
-  <img align="left" alt="Kevo1ution's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/kevo1ution">
-  <img align="left" alt="Kevo1ution | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kevo1ution's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <br></br>
 
@@ -21,7 +13,7 @@ A platform for developing and playing web games. [Make a web game](https://docs.
 ### Open Source Contributions:
 | Repo | Stars |
 |:---	|:---	|
-| [UrTurn](https://github.com/turnbasedgames) - **Maintainer** [_View PRs_](https://github.com/turnbasedgames/urturn/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/turnbasedgames?style=social) |
+| [UrTurn](https://github.com/turnbasedgames) - Maintainer ❤️🏗️🎮 [_View PRs_](https://github.com/turnbasedgames/urturn/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/turnbasedgames?style=social) |
 | [Ava](https://github.com/avajs/ava) - Javascript Test Framework [_View PRs_](https://github.com/avajs/ava/pulls?q=is%3Apr+author%3Akevo1ution+is%3Aclosed) | ![GitHub Repo Stars](https://img.shields.io/github/stars/avajs/ava?style=social) |
 | [Mongoose](https://github.com/Automattic/mongoose) - Object modeling on top of MongoDB [_View PRs_](https://github.com/Automattic/mongoose/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/Automattic/mongoose?style=social) |
 | [Chess.js](https://github.com/jhlywa/chess.js) - Most popular chess npm package [_View PRs_](https://github.com/jhlywa/chess.js/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/jhlywa/chess.js?style=social) |
