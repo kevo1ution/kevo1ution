@@ -1,12 +1,11 @@
 # Kevin
-
-<a href="https://discord.gg/myWacjdb5S">
-  <img align="left" alt="UrTurn Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" />
-</a>
 <a href="https://www.linkedin.com/in/distributed/">
   <img align="left" alt="Kevo1ution's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <br></br>
+
+- software engineer and founder
+- learning about LLMs and ML/NLP
 
 ## Contributor
 
