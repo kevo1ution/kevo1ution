@@ -1,11 +1,10 @@
 # Kevin
+Hi! I'm software engineer and founder. Currently learning about LLMs and ML/NLP.
+
 <a href="https://www.linkedin.com/in/distributed/">
   <img align="left" alt="Kevo1ution's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <br></br>
-
-- software engineer and founder
-- learning about LLMs and ML/NLP
 
 ## Contributor
 
