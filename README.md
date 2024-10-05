@@ -1,10 +1,7 @@
 # Kevin
-Hi! I'm software engineer and founder. Currently learning about LLMs and ML/NLP and building [Firebender](firebender.com)!
+Hi! I'm the Co-founder of [Firebender](https://firebender.com), the most powerful coding assistant for Android Engineers. When I'm not building, I love playing basketball at USF, ultimate frisbee, and chess.
 
-<a href="https://www.linkedin.com/in/distributed/">
-  <img align="left" alt="Kevo1ution's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
-</a>
-<br></br>
+[linkedin](https://linkedin.com/in/distributed) | [x](https://x.com/kevo1ution)
 
 ## Contributor
 
