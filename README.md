@@ -17,9 +17,6 @@ Hi! I'm the Co-founder of [Firebender](https://firebender.com), the most powerfu
 | [Repository-settings](https://github.com/repository-settings/app) - Automates syncing repositories [_View PRs_](https://github.com/repository-settings/app/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/repository-settings/app?style=social) |
 | [Octokit](https://github.com/octokit/endpoint.js) - Official GitHub API clients [_View PRs_](https://github.com/octokit/endpoint.js/pulls?q=is%3Apr+is%3Aclosed+author%3Akevo1ution) | ![GitHub Repo Stars](https://img.shields.io/github/stars/octokit/endpoint.js?style=social) |
 
-### Personal Stats
-![](https://github-readme-stats.vercel.app/api?username=kevo1ution&count_private=true&show_icons=true&theme=dark)
-
 ## Important Disclosure
 
 My cat, **Neon**, is the entity creating all of my PRs and code changes.
