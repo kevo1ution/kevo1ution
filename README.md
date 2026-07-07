@@ -20,4 +20,6 @@ Hi! I'm the Co-founder of [Firebender](https://firebender.com), the most powerfu
 ## Important Disclosure
 
 My cat, **Neon**, is the entity creating all of my PRs and code changes.
-[Gif coming soon]
+
+<img src="neon.jpg" alt="Neon, the cat" width="300">
+
